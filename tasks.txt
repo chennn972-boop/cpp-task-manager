@@ -1,0 +1,6 @@
+1|Study C++|Read chapters 10-15 on templates|High|1
+6|Finish Portfolio|Deploy to GitHub Pages|High|0
+3|Learn Docker|Complete Docker tutorial|Medium|0
+4|Write Unit Tests|Add tests for TaskManager class|Medium|0
+7|Study C++|Review STL containers|Medium|0
+5|Read Clean Code|Finish Robert Martin book|Low|1
